@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 hello
 creating text file
 kk puneet goyal 
+=======
+making changes as a owner in local repository.
+kk
+
+>>>>>>> newbranch
